@@ -15,4 +15,4 @@ if you file a bug report, your issue should contain a title and a clear descript
 You should also include as much relevant information as possible.
 
 ## License
-This resource is released under the [GNU GPLv3](license.md) license.
+This resource is released under the [GNU GPLv3](license) license.
