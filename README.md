@@ -1,6 +1,6 @@
 # Shops
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)]()
-<a href="https://discord.gg/J8uSYd" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/285462938691567627/widget.png"></a>    
+<a href="https://discord.gg/Cgr5FU6" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/285462938691567627/widget.png"></a>    
 
 ## Features
 - Blips for general stores.
