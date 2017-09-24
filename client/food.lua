@@ -60,7 +60,7 @@ Citizen.CreateThread(function()
 			Wait(0)
 		end
 
-		local storePed = CreatePed(4, GetHashKey(v.model), v.x, v.y, v.z, v.h, false, false)
+		local storePed = CreatePed(4, GetHashKey(v.model), v.x, v.y, v.z, v.a, false, false)
 		SetBlockingOfNonTemporaryEvents(storePed, true)
 		SetAmbientVoiceName(storePed, v.voice)
 		TaskStartScenarioInPlace(storePed, "WORLD_HUMAN_STAND_IMPATIENT_UPRIGHT", 0, 0)
